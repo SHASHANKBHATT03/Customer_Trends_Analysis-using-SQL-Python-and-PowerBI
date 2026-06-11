@@ -20,7 +20,9 @@ https://www.kaggle.com/datasets/ayeshasiddiqa123/customer-shopping-behavior-data
 Clone the repository
 
 git clone https://github.com/SHASHANKBHATT03/Customer_Trends_Analysis-using-SQL-Python-and-PowerBI.git
+
 cd customer-trends-data-analysis-SQL-Python-PowerBI
+
 Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
 This file contains:
