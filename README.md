@@ -13,6 +13,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+The Dataset used in this project is avaiable on kaggle and is accessible by the following link :
+https://www.kaggle.com/datasets/ayeshasiddiqa123/customer-shopping-behavior-dataset 
+
 🛠️ How to Use This Project
 Clone the repository
 
